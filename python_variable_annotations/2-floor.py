@@ -1,6 +1,10 @@
 #!/usr/bin/env python3
+"""
+This module contains a function `floor` that returns
+the floor of a float as an integer.
+"""
+
 import math
-"""Module that defines a type-annotated floor function."""
 
 
 def floor(n: float) -> int:
